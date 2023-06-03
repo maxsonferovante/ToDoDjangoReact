@@ -22,8 +22,7 @@ Api Rest que servirá o To-Do React
 
 ```http
   GET /api/todos
-
-  Exemplo do retorno:
+  Exemplo do retorno
     [
       {
           "id": 1,
@@ -49,8 +48,7 @@ Api Rest que servirá o To-Do React
 
 ```http
   GET /api/todos/${id}
-
-  Exemplo do retorno:
+  Exemplo do retorno
   {
       "id": 1,
       "title": "Passer com a Toinha",
@@ -58,5 +56,18 @@ Api Rest que servirá o To-Do React
       "completed": true
   }
 ```
+
+
+## Autores
+
+- [@maxsonferovante](https://www.github.com/maxsonferovante)
+
+
+## Usado por
+
+Esse projeto é usado pelas seguintes empresas:
+
+- To Do React - https://todoreact.herokuapp.com/
+
 
 
