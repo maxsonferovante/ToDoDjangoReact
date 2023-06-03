@@ -1,7 +1,7 @@
 
 # To-Do Django Rest Api
 
-Api Rest que servirá o To-Do React
+Api Rest em Django para alimentação de uma aplicação em react
 
 ## Referência
 
