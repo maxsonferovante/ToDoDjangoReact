@@ -1,12 +1,10 @@
 
-# To-Do Django React
+# To-Do Django Rest Api
 
-Uma aplicação de gestão de tarefas, com adição das taregas, controle se estão concluídas ou não.
-
+Api Rest que servirá o To-Do React
 
 ## Referência
 
- - [React](https://react.dev/reference/react)
  - [Django](https://docs.djangoproject.com/en/4.2/)
  
 
@@ -15,6 +13,5 @@ Uma aplicação de gestão de tarefas, com adição das taregas, controle se est
 - Adição de Tarefas
 - Exclusão das Tarefas cadastradas
 - Edição das Tarefas
-- Mudança do estado de não concluída para concluída
-- Filtro de não concluída e concluída 
+- Consulta por ID e ALL
 
