@@ -57,10 +57,10 @@ MIDDLEWARE = [
 CORS_ORIGIN_ALLOW_ALL = True
 
 CORS_ORIGIN_WHITELIST = [
-    'https://todoreact.herokuapp.com/:3000',
+    'https://todoreact.herokuapp.com:3000',
 ]
 CSRF_TRUSTED_ORIGINS = [
-    'https://todoreact.herokuapp.com/:3000',
+    'https://todoreact.herokuapp.com:3000',
 ]
 ROOT_URLCONF = 'backend.urls'
 
